@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Foldit:wght@300&family=Martian+Mono:wght@100&family=Mooli&family=Pixelify+Sans:wght@500&family=Playpen+Sans:wght@300&display=swap');
+*{
+    font-family: Playpen Sans;
+}
+.card-surat{
+    cursor: pointer;
+    transition: 0.8s;
+    background-color: black;
+}
+.card-surat:hover{
+    background-color: #187f6c;
+}
+.container{
+    background: black;
+}
+body{
+    background: black;
+}
+.navbar{
+   background-color: black;
+}
+.judul-surat{
+    background: black;
+    color: white;
+}
+.card-body{
+    background: black;
+    color: gray;
+}
+.form-control{
+    background-color: cadetblue;
+}
+
+
+
